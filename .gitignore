@@ -1,0 +1,6 @@
+.idea
+venv
+start.bat
+database.db
+__pycache__
+*.sqlite

@@ -1,0 +1,1807 @@
+[INFO 2025-01-10 20:21:43,111 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:21:43,111 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:21:43,115 users.py:202 -     get_user_setting()] Getting user setting history response is (None,)
+[INFO 2025-01-10 20:21:43,849 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:21:43,849 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:21:43,896 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:21:43,896 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:21:49,971 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:21:49,971 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:21:49,972 users.py:202 -     get_user_setting()] Getting user setting history response is (None,)
+[INFO 2025-01-10 20:21:50,718 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:21:50,718 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:21:50,718 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:21:50,718 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:22:01,259 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:22:01,259 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:22:01,259 users.py:202 -     get_user_setting()] Getting user setting history response is (None,)
+[INFO 2025-01-10 20:22:02,011 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:22:02,011 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:22:02,012 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:22:02,012 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:22:57,500 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:22:57,500 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:22:57,500 users.py:202 -     get_user_setting()] Getting user setting history response is (None,)
+[INFO 2025-01-10 20:22:58,321 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:22:58,321 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:22:58,321 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:22:58,321 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:23:11,311 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:23:11,311 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:23:11,311 users.py:202 -     get_user_setting()] Getting user setting history response is (None,)
+[INFO 2025-01-10 20:23:12,092 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:23:12,092 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:23:12,092 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:23:12,092 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:23:29,837 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:23:29,837 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:23:29,837 users.py:202 -     get_user_setting()] Getting user setting history response is (None,)
+[INFO 2025-01-10 20:23:30,613 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:23:30,613 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:23:30,613 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:23:30,613 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:23:32,744 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:23:32,744 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:23:32,745 users.py:202 -     get_user_setting()] Getting user setting history response is (None,)
+[INFO 2025-01-10 20:23:33,495 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:23:33,495 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:23:33,495 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:23:33,495 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:23:39,622 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:23:39,622 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:23:39,623 users.py:202 -     get_user_setting()] Getting user setting history response is (None,)
+[INFO 2025-01-10 20:23:40,340 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:23:40,340 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:23:40,471 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:23:40,471 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:23:46,263 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:23:46,263 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:23:46,264 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('system', 'Здравствуйте! Чем я могу вам помочь?'), ('user', 'Как дела'), ('system', 'Всё в порядке, спасибо! А у вас как?'), ('user', 'Как себя чувствуешь'), ('system', 'Я всегда чувствую себя хорошо и готов помочь вам.')]",)
+[INFO 2025-01-10 20:23:46,264 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:25:34,500 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:25:34,501 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:25:34,501 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('system', 'Здравствуйте! Чем я могу вам помочь?'), ('user', 'Как дела'), ('system', 'Всё в порядке, спасибо! А у вас как?'), ('user', 'Как себя чувствуешь'), ('system', 'Я всегда чувствую себя хорошо и готов помочь вам.')]",)
+[INFO 2025-01-10 20:25:34,501 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:26:13,531 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:26:13,531 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:26:13,532 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('system', 'Здравствуйте! Чем я могу вам помочь?'), ('user', 'Как дела'), ('system', 'Всё в порядке, спасибо! А у вас как?'), ('user', 'Как себя чувствуешь'), ('system', 'Я всегда чувствую себя хорошо и готов помочь вам.')]",)
+[INFO 2025-01-10 20:26:13,533 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:27:46,173 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:27:46,173 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:27:46,173 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('system', 'Здравствуйте! Чем я могу вам помочь?'), ('user', 'Как дела'), ('system', 'Всё в порядке, спасибо! А у вас как?'), ('user', 'Как себя чувствуешь'), ('system', 'Я всегда чувствую себя хорошо и готов помочь вам.')]",)
+[INFO 2025-01-10 20:27:46,173 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:28:43,025 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:28:43,025 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:28:43,026 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('system', 'Здравствуйте! Чем я могу вам помочь?'), ('user', 'Как дела'), ('system', 'Всё в порядке, спасибо! А у вас как?'), ('user', 'Как себя чувствуешь'), ('system', 'Я всегда чувствую себя хорошо и готов помочь вам.')]",)
+[INFO 2025-01-10 20:28:43,026 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:30:16,257 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:30:16,257 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:30:16,257 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('system', 'Здравствуйте! Чем я могу вам помочь?'), ('user', 'Как дела'), ('system', 'Всё в порядке, спасибо! А у вас как?'), ('user', 'Как себя чувствуешь'), ('system', 'Я всегда чувствую себя хорошо и готов помочь вам.')]",)
+[INFO 2025-01-10 20:30:16,257 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:30:17,021 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:30:17,021 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:30:17,148 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:30:17,148 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:31:17,999 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:31:17,999 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:31:18,000 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('user', 'Как дела'), ('system', 'Всё в порядке, спасибо! А у вас как?'), ('user', 'Как себя чувствуешь'), ('system', 'Я всегда чувствую себя хорошо и готов помочь вам.'), ('user', 'привет'), ('system', 'Привет! Рад тебя видеть. Какой вопрос тебя интересует сегодня?')]",)
+[INFO 2025-01-10 20:31:18,000 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:31:18,768 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:31:18,768 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:31:18,869 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:31:18,869 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:31:23,958 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:31:23,959 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:31:23,959 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('user', 'Как дела'), ('system', 'Всё в порядке, спасибо! А у вас как?'), ('user', 'Как себя чувствуешь'), ('system', 'Я всегда чувствую себя хорошо и готов помочь вам.'), ('user', 'привет'), ('system', 'Привет! Рад тебя видеть. Какой вопрос тебя интересует сегодня?'), ('user', 'Привет'), ('system', 'Здравствуйте! Чем я могу вам помочь сегодня?')]",)
+[INFO 2025-01-10 20:31:23,959 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:31:24,704 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:31:24,704 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:31:24,835 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:31:24,835 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:32:01,153 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:32:01,153 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:32:01,153 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('system', 'Всё в порядке, спасибо! А у вас как?'), ('user', 'Как себя чувствуешь'), ('system', 'Я всегда чувствую себя хорошо и готов помочь вам.'), ('user', 'привет'), ('system', 'Привет! Рад тебя видеть. Какой вопрос тебя интересует сегодня?'), ('user', 'Привет'), ('system', 'Здравствуйте! Чем я могу вам помочь сегодня?'), ('user', 'Как дела?'), ('system', 'Всё отлично, спасибо! Как ваше настроение?')]",)
+[INFO 2025-01-10 20:32:01,153 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:32:01,953 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:32:01,953 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:32:02,068 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:32:02,068 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:32:30,097 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:32:30,097 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:32:30,098 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('user', 'Как себя чувствуешь'), ('system', 'Я всегда чувствую себя хорошо и готов помочь вам.'), ('user', 'привет'), ('system', 'Привет! Рад тебя видеть. Какой вопрос тебя интересует сегодня?'), ('user', 'Привет'), ('system', 'Здравствуйте! Чем я могу вам помочь сегодня?'), ('user', 'Как дела?'), ('system', 'Всё отлично, спасибо! Как ваше настроение?'), ('user', 'Привет, как дела'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твои дела?')]",)
+[INFO 2025-01-10 20:32:30,098 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:32:30,895 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:32:30,895 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:32:31,007 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:32:31,007 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:33:17,742 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:33:17,742 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:33:17,742 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('system', 'Я всегда чувствую себя хорошо и готов помочь вам.'), ('user', 'привет'), ('system', 'Привет! Рад тебя видеть. Какой вопрос тебя интересует сегодня?'), ('user', 'Привет'), ('system', 'Здравствуйте! Чем я могу вам помочь сегодня?'), ('user', 'Как дела?'), ('system', 'Всё отлично, спасибо! Как ваше настроение?'), ('user', 'Привет, как дела'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твои дела?'), ('user', 'мяу'), ('system', 'Мур-мур! Надеюсь, у тебя тоже всё хорошо. 😊')]",)
+[INFO 2025-01-10 20:33:17,742 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:33:18,531 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:33:18,531 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:33:18,640 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:33:18,640 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:33:58,606 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:33:58,606 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:33:58,607 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('system', 'Я всегда чувствую себя хорошо и готов помочь вам.'), ('user', 'привет'), ('system', 'Привет! Рад тебя видеть. Какой вопрос тебя интересует сегодня?'), ('user', 'Привет'), ('system', 'Здравствуйте! Чем я могу вам помочь сегодня?'), ('user', 'Как дела?'), ('system', 'Всё отлично, спасибо! Как ваше настроение?'), ('user', 'Привет, как дела'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твои дела?'), ('user', 'мяу'), ('system', 'Мур-мур! Надеюсь, у тебя тоже всё хорошо. 😊'), ('user', 'привет'), ('system', 'Привет! Как у тебя дела?')]",)
+[INFO 2025-01-10 20:33:58,607 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:33:59,419 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:33:59,419 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:33:59,535 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:33:59,535 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:34:05,119 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:34:05,119 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 20:34:05,120 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 20:34:05,120 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:34:05,120 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:34:05,120 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 20:34:05,120 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 20:34:05,121 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:34:05,121 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:34:05,121 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 20:34:05,121 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Комару',)
+[INFO 2025-01-10 20:34:05,121 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:34:05,121 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:34:05,121 users.py:171 -     get_user_setting()] getting setting <username>
+[INFO 2025-01-10 20:34:05,122 users.py:202 -     get_user_setting()] Getting user setting username response is (None,)
+[INFO 2025-01-10 20:34:47,301 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:34:47,302 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:34:47,302 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('system', 'Я всегда чувствую себя хорошо и готов помочь вам.'), ('user', 'привет'), ('system', 'Привет! Рад тебя видеть. Какой вопрос тебя интересует сегодня?'), ('user', 'Привет'), ('system', 'Здравствуйте! Чем я могу вам помочь сегодня?'), ('user', 'Как дела?'), ('system', 'Всё отлично, спасибо! Как ваше настроение?'), ('user', 'Привет, как дела'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твои дела?'), ('user', 'мяу'), ('system', 'Мур-мур! Надеюсь, у тебя тоже всё хорошо. 😊'), ('user', 'привет'), ('system', 'Привет! Как у тебя дела?'), ('user', 'привет'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твой день проходит?')]",)
+[INFO 2025-01-10 20:34:47,302 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:34:48,048 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:34:48,048 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:34:48,174 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:34:48,174 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:34:51,687 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:34:51,687 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 20:34:51,688 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 20:34:51,688 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:34:51,688 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:34:51,688 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 20:34:51,688 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 20:34:51,688 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:34:51,688 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:34:51,688 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 20:34:51,689 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Комару',)
+[INFO 2025-01-10 20:34:51,689 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:34:51,689 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:34:51,689 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 20:34:51,689 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 20:34:51,689 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:35:12,616 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:35:12,616 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 20:35:12,617 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 20:35:12,617 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:38:52,724 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:38:52,724 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:38:52,725 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('system', 'Я всегда чувствую себя хорошо и готов помочь вам.'), ('user', 'привет'), ('system', 'Привет! Рад тебя видеть. Какой вопрос тебя интересует сегодня?'), ('user', 'Привет'), ('system', 'Здравствуйте! Чем я могу вам помочь сегодня?'), ('user', 'Как дела?'), ('system', 'Всё отлично, спасибо! Как ваше настроение?'), ('user', 'Привет, как дела'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твои дела?'), ('user', 'мяу'), ('system', 'Мур-мур! Надеюсь, у тебя тоже всё хорошо. 😊'), ('user', 'привет'), ('system', 'Привет! Как у тебя дела?'), ('user', 'привет'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твой день проходит?'), ('user', 'Как дела?'), ('system', 'Дела идут своим чередом. А у тебя как?')]",)
+[INFO 2025-01-10 20:38:52,725 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:38:53,527 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:38:53,527 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:38:53,642 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:38:53,643 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:38:53,643 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:38:53,643 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 20:38:53,644 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 20:38:53,644 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:38:53,644 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:38:53,644 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 20:38:53,645 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Комару',)
+[INFO 2025-01-10 20:38:53,645 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:38:53,645 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:38:53,645 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 20:38:53,645 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 20:38:53,645 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:38:55,455 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:38:55,457 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 20:38:55,457 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 20:38:55,457 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:38:55,457 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:38:55,457 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 20:38:55,457 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 20:38:55,457 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:38:55,458 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:38:55,458 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 20:38:55,458 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Комару',)
+[INFO 2025-01-10 20:38:55,458 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:38:55,458 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:38:55,458 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 20:38:55,458 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 20:38:55,458 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:38:58,381 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:38:58,381 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 20:38:58,382 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 20:38:58,382 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:52:21,002 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:52:21,003 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:52:21,003 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('system', 'Я всегда чувствую себя хорошо и готов помочь вам.'), ('user', 'привет'), ('system', 'Привет! Рад тебя видеть. Какой вопрос тебя интересует сегодня?'), ('user', 'Привет'), ('system', 'Здравствуйте! Чем я могу вам помочь сегодня?'), ('user', 'Как дела?'), ('system', 'Всё отлично, спасибо! Как ваше настроение?'), ('user', 'Привет, как дела'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твои дела?'), ('user', 'мяу'), ('system', 'Мур-мур! Надеюсь, у тебя тоже всё хорошо. 😊'), ('user', 'привет'), ('system', 'Привет! Как у тебя дела?'), ('user', 'привет'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твой день проходит?'), ('user', 'Как дела?'), ('system', 'Дела идут своим чередом. А у тебя как?'), ('user', 'Привет'), ('system', 'Привет! У меня всё в порядке, готов помочь тебе с любыми вопросами. Как у тебя дела?')]",)
+[INFO 2025-01-10 20:52:21,003 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:52:21,814 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:52:21,815 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:52:21,928 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:52:21,928 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:52:21,928 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:52:21,928 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 20:52:21,929 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 20:52:21,929 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:52:21,929 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:52:21,929 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 20:52:21,930 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Комару',)
+[INFO 2025-01-10 20:52:21,930 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:52:21,930 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:52:21,930 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 20:52:21,930 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 20:52:21,930 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:52:26,290 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:52:26,290 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 20:52:26,291 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 20:52:26,291 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:52:26,291 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:52:26,291 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 20:52:26,291 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 20:52:26,291 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:52:26,291 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:52:26,292 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 20:52:26,292 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Комару',)
+[INFO 2025-01-10 20:52:26,292 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:52:26,292 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:52:26,292 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 20:52:26,293 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 20:52:26,293 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:52:27,240 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:52:27,240 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 20:52:27,240 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 20:52:27,240 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:53:38,605 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:53:38,605 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:53:38,605 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('system', 'Я всегда чувствую себя хорошо и готов помочь вам.'), ('user', 'привет'), ('system', 'Привет! Рад тебя видеть. Какой вопрос тебя интересует сегодня?'), ('user', 'Привет'), ('system', 'Здравствуйте! Чем я могу вам помочь сегодня?'), ('user', 'Как дела?'), ('system', 'Всё отлично, спасибо! Как ваше настроение?'), ('user', 'Привет, как дела'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твои дела?'), ('user', 'мяу'), ('system', 'Мур-мур! Надеюсь, у тебя тоже всё хорошо. 😊'), ('user', 'привет'), ('system', 'Привет! Как у тебя дела?'), ('user', 'привет'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твой день проходит?'), ('user', 'Как дела?'), ('system', 'Дела идут своим чередом. А у тебя как?'), ('user', 'Привет'), ('system', 'Привет! У меня всё в порядке, готов помочь тебе с любыми вопросами. Как у тебя дела?'), ('user', 'Мяу'), ('system', 'Мур-мур! Мои кошачьи друзья иногда так приветствуют меня. Как у тебя настроение?')]",)
+[INFO 2025-01-10 20:53:38,605 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:53:39,382 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:53:39,382 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:53:39,498 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:53:39,498 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:53:39,498 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:53:39,498 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 20:53:39,499 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 20:53:39,500 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:53:39,500 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:53:39,500 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 20:53:39,500 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Комару',)
+[INFO 2025-01-10 20:53:39,500 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:53:39,500 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:53:39,500 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 20:53:39,501 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 20:53:39,501 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:53:40,606 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:53:40,606 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 20:53:40,608 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 20:53:40,608 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:53:40,608 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:53:40,608 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 20:53:40,608 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 20:53:40,608 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:53:40,608 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:53:40,609 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 20:53:40,609 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Комару',)
+[INFO 2025-01-10 20:53:40,609 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:53:40,609 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:53:40,609 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 20:53:40,610 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 20:53:40,610 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:53:41,556 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:53:41,556 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 20:53:41,557 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 20:53:41,557 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:53:44,947 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:53:44,947 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:53:44,947 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('system', 'Я всегда чувствую себя хорошо и готов помочь вам.'), ('user', 'привет'), ('system', 'Привет! Рад тебя видеть. Какой вопрос тебя интересует сегодня?'), ('user', 'Привет'), ('system', 'Здравствуйте! Чем я могу вам помочь сегодня?'), ('user', 'Как дела?'), ('system', 'Всё отлично, спасибо! Как ваше настроение?'), ('user', 'Привет, как дела'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твои дела?'), ('user', 'мяу'), ('system', 'Мур-мур! Надеюсь, у тебя тоже всё хорошо. 😊'), ('user', 'привет'), ('system', 'Привет! Как у тебя дела?'), ('user', 'привет'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твой день проходит?'), ('user', 'Как дела?'), ('system', 'Дела идут своим чередом. А у тебя как?'), ('user', 'Привет'), ('system', 'Привет! У меня всё в порядке, готов помочь тебе с любыми вопросами. Как у тебя дела?'), ('user', 'Мяу'), ('system', 'Мур-мур! Мои кошачьи друзья иногда так приветствуют меня. Как у тебя настроение?'), ('user', 'мяу'), ('system', 'Мур-мур! Настроение хорошее, спасибо. Готов помочь тебе с любыми вопросами.')]",)
+[INFO 2025-01-10 20:53:44,947 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:53:45,687 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:53:45,687 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:53:45,814 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:53:45,814 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:53:45,814 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:53:45,815 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 20:53:45,816 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 20:53:45,816 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:53:45,816 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:53:45,816 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 20:53:45,816 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Комару',)
+[INFO 2025-01-10 20:53:45,816 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:53:45,816 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:53:45,817 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 20:53:45,817 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 20:53:45,817 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:57:36,977 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:57:36,977 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:57:36,977 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('system', 'Я всегда чувствую себя хорошо и готов помочь вам.'), ('user', 'привет'), ('system', 'Привет! Рад тебя видеть. Какой вопрос тебя интересует сегодня?'), ('user', 'Привет'), ('system', 'Здравствуйте! Чем я могу вам помочь сегодня?'), ('user', 'Как дела?'), ('system', 'Всё отлично, спасибо! Как ваше настроение?'), ('user', 'Привет, как дела'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твои дела?'), ('user', 'мяу'), ('system', 'Мур-мур! Надеюсь, у тебя тоже всё хорошо. 😊'), ('user', 'привет'), ('system', 'Привет! Как у тебя дела?'), ('user', 'привет'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твой день проходит?'), ('user', 'Как дела?'), ('system', 'Дела идут своим чередом. А у тебя как?'), ('user', 'Привет'), ('system', 'Привет! У меня всё в порядке, готов помочь тебе с любыми вопросами. Как у тебя дела?'), ('user', 'Мяу'), ('system', 'Мур-мур! Мои кошачьи друзья иногда так приветствуют меня. Как у тебя настроение?'), ('user', 'мяу'), ('system', 'Мур-мур! Настроение хорошее, спасибо. Готов помочь тебе с любыми вопросами.'), ('user', 'мяу'), ('system', 'Мур-мур! А что интересного у тебя происходит?')]",)
+[INFO 2025-01-10 20:57:36,977 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:57:37,811 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:57:37,811 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:57:37,935 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:57:37,935 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:57:37,935 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:57:37,935 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 20:57:37,936 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 20:57:37,936 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:57:37,936 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:57:37,936 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 20:57:37,937 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Комару',)
+[INFO 2025-01-10 20:57:37,937 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:57:37,937 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:57:37,937 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 20:57:37,937 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 20:57:37,937 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:57:39,242 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:57:39,242 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 20:57:39,242 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 20:57:39,242 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:57:39,242 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:57:39,242 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 20:57:39,243 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 20:57:39,243 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:57:39,243 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:57:39,243 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 20:57:39,243 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Комару',)
+[INFO 2025-01-10 20:57:39,243 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:57:39,243 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:57:39,244 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 20:57:39,244 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 20:57:39,244 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:57:39,912 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:57:39,913 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 20:57:39,913 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 20:57:39,913 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:57:43,027 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:57:43,027 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 20:57:43,028 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 20:57:43,028 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:58:35,818 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:58:35,818 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:58:35,818 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('system', 'Я всегда чувствую себя хорошо и готов помочь вам.'), ('user', 'привет'), ('system', 'Привет! Рад тебя видеть. Какой вопрос тебя интересует сегодня?'), ('user', 'Привет'), ('system', 'Здравствуйте! Чем я могу вам помочь сегодня?'), ('user', 'Как дела?'), ('system', 'Всё отлично, спасибо! Как ваше настроение?'), ('user', 'Привет, как дела'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твои дела?'), ('user', 'мяу'), ('system', 'Мур-мур! Надеюсь, у тебя тоже всё хорошо. 😊'), ('user', 'привет'), ('system', 'Привет! Как у тебя дела?'), ('user', 'привет'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твой день проходит?'), ('user', 'Как дела?'), ('system', 'Дела идут своим чередом. А у тебя как?'), ('user', 'Привет'), ('system', 'Привет! У меня всё в порядке, готов помочь тебе с любыми вопросами. Как у тебя дела?'), ('user', 'Мяу'), ('system', 'Мур-мур! Мои кошачьи друзья иногда так приветствуют меня. Как у тебя настроение?'), ('user', 'мяу'), ('system', 'Мур-мур! Настроение хорошее, спасибо. Готов помочь тебе с любыми вопросами.'), ('user', 'мяу'), ('system', 'Мур-мур! А что интересного у тебя происходит?'), ('user', 'Привет'), ('system', 'Привет! У меня всё в порядке, готов помочь тебе с любыми вопросами. Как твои дела?')]",)
+[INFO 2025-01-10 20:58:35,818 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:58:36,651 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:58:36,651 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:58:36,781 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:58:36,781 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:58:36,781 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:58:36,781 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 20:58:36,782 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 20:58:36,783 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:58:36,783 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:58:36,783 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 20:58:36,783 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Комару',)
+[INFO 2025-01-10 20:58:36,783 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:58:36,783 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:58:36,783 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 20:58:36,784 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 20:58:36,784 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:58:38,321 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:58:38,321 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 20:58:38,321 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 20:58:38,321 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:58:38,321 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:58:38,321 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 20:58:38,322 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 20:58:38,322 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:58:38,322 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:58:38,322 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 20:58:38,323 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Комару',)
+[INFO 2025-01-10 20:58:38,323 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:58:38,323 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:58:38,323 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 20:58:38,323 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 20:58:38,323 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:58:39,427 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:58:39,427 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 20:58:39,428 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 20:58:39,428 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:58:47,043 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:58:47,043 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 20:58:47,044 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 20:58:47,044 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:58:51,929 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:58:51,929 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 20:58:51,929 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('user', 'привет'), ('system', 'Привет! Рад тебя видеть. Какой вопрос тебя интересует сегодня?'), ('user', 'Привет'), ('system', 'Здравствуйте! Чем я могу вам помочь сегодня?'), ('user', 'Как дела?'), ('system', 'Всё отлично, спасибо! Как ваше настроение?'), ('user', 'Привет, как дела'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твои дела?'), ('user', 'мяу'), ('system', 'Мур-мур! Надеюсь, у тебя тоже всё хорошо. 😊'), ('user', 'привет'), ('system', 'Привет! Как у тебя дела?'), ('user', 'привет'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твой день проходит?'), ('user', 'Как дела?'), ('system', 'Дела идут своим чередом. А у тебя как?'), ('user', 'Привет'), ('system', 'Привет! У меня всё в порядке, готов помочь тебе с любыми вопросами. Как у тебя дела?'), ('user', 'Мяу'), ('system', 'Мур-мур! Мои кошачьи друзья иногда так приветствуют меня. Как у тебя настроение?'), ('user', 'мяу'), ('system', 'Мур-мур! Настроение хорошее, спасибо. Готов помочь тебе с любыми вопросами.'), ('user', 'мяу'), ('system', 'Мур-мур! А что интересного у тебя происходит?'), ('user', 'Привет'), ('system', 'Привет! У меня всё в порядке, готов помочь тебе с любыми вопросами. Как твои дела?'), ('user', 'Привет'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твои дела?')]",)
+[INFO 2025-01-10 20:58:51,929 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:58:52,695 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 20:58:52,695 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 20:58:52,822 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 20:58:52,822 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:58:52,822 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:58:52,822 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 20:58:52,823 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 20:58:52,823 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:58:52,824 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:58:52,824 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 20:58:52,824 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Комару',)
+[INFO 2025-01-10 20:58:52,824 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:58:52,824 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:58:52,824 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 20:58:52,825 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 20:58:52,825 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:58:54,255 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:58:54,255 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 20:58:54,255 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 20:58:54,256 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:58:54,256 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:58:54,256 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 20:58:54,256 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 20:58:54,256 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:58:54,256 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 20:58:54,256 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 20:58:54,257 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Комару',)
+[INFO 2025-01-10 20:58:54,257 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 20:58:54,257 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:58:54,257 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 20:58:54,258 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 20:58:54,258 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:58:55,472 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:58:55,472 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 20:58:55,473 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 20:58:55,473 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 20:59:01,681 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 20:59:01,681 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 20:59:01,681 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 20:59:01,681 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:04:05,817 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:04:05,817 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 21:04:05,818 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 21:04:05,818 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:04:11,337 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:04:11,337 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 21:04:11,338 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('system', 'Привет! Рад тебя видеть. Какой вопрос тебя интересует сегодня?'), ('user', 'Привет'), ('system', 'Здравствуйте! Чем я могу вам помочь сегодня?'), ('user', 'Как дела?'), ('system', 'Всё отлично, спасибо! Как ваше настроение?'), ('user', 'Привет, как дела'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твои дела?'), ('user', 'мяу'), ('system', 'Мур-мур! Надеюсь, у тебя тоже всё хорошо. 😊'), ('user', 'привет'), ('system', 'Привет! Как у тебя дела?'), ('user', 'привет'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твой день проходит?'), ('user', 'Как дела?'), ('system', 'Дела идут своим чередом. А у тебя как?'), ('user', 'Привет'), ('system', 'Привет! У меня всё в порядке, готов помочь тебе с любыми вопросами. Как у тебя дела?'), ('user', 'Мяу'), ('system', 'Мур-мур! Мои кошачьи друзья иногда так приветствуют меня. Как у тебя настроение?'), ('user', 'мяу'), ('system', 'Мур-мур! Настроение хорошее, спасибо. Готов помочь тебе с любыми вопросами.'), ('user', 'мяу'), ('system', 'Мур-мур! А что интересного у тебя происходит?'), ('user', 'Привет'), ('system', 'Привет! У меня всё в порядке, готов помочь тебе с любыми вопросами. Как твои дела?'), ('user', 'Привет'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твои дела?'), ('user', 'как дела?'), ('system', 'У меня всё отлично, спасибо! Как у тебя дела?')]",)
+[INFO 2025-01-10 21:04:11,338 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:04:12,259 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:04:12,259 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 21:04:12,362 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:04:12,362 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:04:12,362 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:04:12,362 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:04:12,363 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:04:12,363 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:04:12,363 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:04:12,363 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:04:12,363 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Комару',)
+[INFO 2025-01-10 21:04:12,363 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:04:12,363 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:04:12,363 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 21:04:12,364 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 21:04:12,364 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:06:56,571 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:06:56,571 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 21:06:56,572 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('user', 'Привет'), ('system', 'Здравствуйте! Чем я могу вам помочь сегодня?'), ('user', 'Как дела?'), ('system', 'Всё отлично, спасибо! Как ваше настроение?'), ('user', 'Привет, как дела'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твои дела?'), ('user', 'мяу'), ('system', 'Мур-мур! Надеюсь, у тебя тоже всё хорошо. 😊'), ('user', 'привет'), ('system', 'Привет! Как у тебя дела?'), ('user', 'привет'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твой день проходит?'), ('user', 'Как дела?'), ('system', 'Дела идут своим чередом. А у тебя как?'), ('user', 'Привет'), ('system', 'Привет! У меня всё в порядке, готов помочь тебе с любыми вопросами. Как у тебя дела?'), ('user', 'Мяу'), ('system', 'Мур-мур! Мои кошачьи друзья иногда так приветствуют меня. Как у тебя настроение?'), ('user', 'мяу'), ('system', 'Мур-мур! Настроение хорошее, спасибо. Готов помочь тебе с любыми вопросами.'), ('user', 'мяу'), ('system', 'Мур-мур! А что интересного у тебя происходит?'), ('user', 'Привет'), ('system', 'Привет! У меня всё в порядке, готов помочь тебе с любыми вопросами. Как твои дела?'), ('user', 'Привет'), ('system', 'Привет! У меня всё отлично, готов помочь тебе с любыми вопросами. Как твои дела?'), ('user', 'как дела?'), ('system', 'У меня всё отлично, спасибо! Как у тебя дела?'), ('user', '/clear'), ('system', 'Очищена ли история сообщений?\\n\\n1. Если да, то можем начать заново и продолжить наше общение.\\n2. Если нет, то продолжим разговор с текущего момента.')]",)
+[INFO 2025-01-10 21:06:56,572 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:06:57,311 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:06:57,311 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 21:06:57,410 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:06:57,410 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:06:57,410 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:06:57,410 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:06:57,411 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:06:57,411 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:06:57,411 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:06:57,411 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:06:57,412 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Комару',)
+[INFO 2025-01-10 21:06:57,412 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:06:57,412 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:06:57,412 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 21:06:57,412 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 21:06:57,412 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:07:35,732 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:07:35,732 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 21:07:35,849 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:07:35,849 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:08:01,325 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:08:01,325 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:08:01,326 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:08:01,326 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:08:01,326 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:08:01,326 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:08:01,327 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Комару',)
+[INFO 2025-01-10 21:08:01,327 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:08:01,327 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:08:01,327 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 21:08:01,328 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 21:08:01,328 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:10:23,765 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:10:23,765 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:10:23,766 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:10:23,766 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:10:23,766 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:10:23,766 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:10:23,766 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Комару',)
+[INFO 2025-01-10 21:10:23,766 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:10:23,766 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:10:23,766 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 21:10:23,767 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 21:10:23,767 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:13:46,531 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:13:46,531 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:13:46,532 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:13:46,532 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:13:46,532 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:13:46,532 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:13:46,532 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Комару',)
+[INFO 2025-01-10 21:13:46,532 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:13:46,533 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:13:46,533 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 21:13:46,533 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 21:13:46,533 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:13:54,315 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:13:54,315 users.py:106 -     set_user_setting()] changing setting <name>
+[INFO 2025-01-10 21:13:54,316 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:13:54,316 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:13:54,316 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:13:54,316 users.py:106 -     set_user_setting()] changing setting <surname>
+[INFO 2025-01-10 21:13:54,435 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:13:54,435 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:13:59,313 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:13:59,313 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:13:59,313 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:13:59,313 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:13:59,314 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:13:59,314 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:13:59,314 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 21:13:59,314 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:13:59,314 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:13:59,314 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 21:13:59,315 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 21:13:59,315 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:14:10,016 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:14:10,016 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 21:14:10,017 users.py:202 -     get_user_setting()] Getting user setting history response is (None,)
+[INFO 2025-01-10 21:15:41,201 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:15:41,201 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 21:15:41,202 users.py:202 -     get_user_setting()] Getting user setting history response is (None,)
+[INFO 2025-01-10 21:16:14,652 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:16:14,652 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 21:16:14,653 users.py:202 -     get_user_setting()] Getting user setting history response is (None,)
+[INFO 2025-01-10 21:16:14,653 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:16:14,654 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 21:16:14,654 users.py:202 -     get_user_setting()] Getting user setting history response is (None,)
+[INFO 2025-01-10 21:17:34,547 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:17:34,547 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 21:17:34,548 users.py:202 -     get_user_setting()] Getting user setting history response is (None,)
+[INFO 2025-01-10 21:17:34,548 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:17:34,548 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 21:17:34,548 users.py:202 -     get_user_setting()] Getting user setting history response is (None,)
+[INFO 2025-01-10 21:18:21,047 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:18:21,048 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 21:18:21,048 users.py:202 -     get_user_setting()] Getting user setting history response is (None,)
+[INFO 2025-01-10 21:18:21,812 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:18:21,812 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 21:18:21,912 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:18:21,912 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:18:21,912 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:18:21,912 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:18:21,913 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:18:21,914 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:18:21,914 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:18:21,914 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:18:21,914 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 21:18:21,914 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:18:21,914 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:18:21,914 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 21:18:21,915 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 21:18:21,915 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:19:22,514 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:19:22,514 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 21:19:22,514 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('user', 'Привет'), ('system', 'Здравствуйте! Чем я могу вам помочь?')]",)
+[INFO 2025-01-10 21:19:22,514 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:19:23,294 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:19:23,294 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 21:19:23,393 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:19:23,393 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:19:23,393 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:19:23,393 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:19:23,394 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:19:23,394 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:19:23,395 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:19:23,395 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:19:23,395 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 21:19:23,395 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:19:23,395 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:19:23,395 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 21:19:23,395 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 21:19:23,397 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:20:19,723 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:20:19,723 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 21:20:19,829 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:20:19,829 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:20:24,212 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:20:24,212 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 21:20:24,213 users.py:202 -     get_user_setting()] Getting user setting history response is (None,)
+[INFO 2025-01-10 21:20:24,973 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:20:24,973 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 21:20:25,079 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:20:25,079 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:20:25,079 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:20:25,079 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:20:25,081 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:20:25,081 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:20:25,081 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:20:25,081 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:20:25,081 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 21:20:25,081 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:20:25,082 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:20:25,082 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 21:20:25,082 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 21:20:25,082 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:20:28,924 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:20:28,924 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 21:20:28,924 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('user', 'Как дела?'), ('system', 'Всё в порядке, спасибо! Как у тебя настроение?')]",)
+[INFO 2025-01-10 21:20:28,924 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:20:29,663 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:20:29,663 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 21:20:29,762 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:20:29,762 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:20:29,762 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:20:29,762 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:20:29,763 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:20:29,763 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:20:29,763 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:20:29,763 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:20:29,764 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 21:20:29,764 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:20:29,764 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:20:29,764 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 21:20:29,764 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 21:20:29,765 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:20:39,883 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:20:39,883 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 21:20:39,883 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('user', 'Как дела?'), ('system', 'Всё в порядке, спасибо! Как у тебя настроение?'), ('user', 'У меня хорошо'), ('system', 'Это замечательно! Чем планируешь заняться сегодня?')]",)
+[INFO 2025-01-10 21:20:39,883 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:20:40,667 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:20:40,667 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 21:20:40,764 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:20:40,764 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:20:40,764 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:20:40,764 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:20:40,765 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:20:40,765 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:20:40,765 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:20:40,765 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:20:40,766 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 21:20:40,766 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:20:40,766 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:20:40,766 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 21:20:40,766 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 21:20:40,766 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:20:49,603 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:20:49,603 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 21:20:49,603 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('user', 'Как дела?'), ('system', 'Всё в порядке, спасибо! Как у тебя настроение?'), ('user', 'У меня хорошо'), ('system', 'Это замечательно! Чем планируешь заняться сегодня?'), ('user', 'Планирую во что-нибудь поиграть'), ('system', 'Отличный выбор! Во что ты обычно играешь?')]",)
+[INFO 2025-01-10 21:20:49,603 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:20:50,447 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:20:50,447 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 21:20:50,552 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:20:50,553 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:20:50,553 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:20:50,553 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:20:50,554 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:20:50,554 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:20:50,554 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:20:50,554 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:20:50,554 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 21:20:50,554 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:20:50,554 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:20:50,554 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 21:20:50,554 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 21:20:50,554 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:21:20,535 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:21:20,536 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 21:21:20,536 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 21:21:20,536 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:21:20,536 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:21:20,536 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:21:20,536 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:21:20,537 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:21:20,537 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:21:20,537 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:21:20,537 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 21:21:20,537 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:21:20,537 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:21:20,537 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 21:21:20,538 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 21:21:20,538 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:21:21,619 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:21:21,619 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 21:21:21,620 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 21:21:21,620 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:21:44,928 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:21:44,928 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 21:21:45,019 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:21:45,019 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:21:46,561 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:21:46,561 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 21:21:46,562 users.py:202 -     get_user_setting()] Getting user setting history response is (None,)
+[INFO 2025-01-10 21:21:47,323 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:21:47,323 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 21:21:47,419 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:21:47,419 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:21:47,419 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:21:47,419 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:21:47,420 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:21:47,420 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:21:47,420 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:21:47,420 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:21:47,421 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 21:21:47,421 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:21:47,421 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:21:47,421 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 21:21:47,421 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 21:21:47,421 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:21:48,464 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:21:48,464 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 21:21:48,465 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 21:21:48,465 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:21:48,465 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:21:48,465 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:21:48,466 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:21:48,466 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:21:48,466 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:21:48,466 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:21:48,466 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 21:21:48,466 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:21:48,466 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:21:48,466 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 21:21:48,467 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 21:21:48,467 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:21:49,262 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:21:49,262 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 21:21:49,262 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 21:21:49,262 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:22:01,378 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:22:01,378 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 21:22:01,379 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 21:22:01,379 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:22:06,149 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:22:06,149 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 21:22:06,149 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 21:22:06,149 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:22:35,709 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:22:35,709 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 21:22:35,710 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('user', 'как дела?'), ('system', 'Всё в порядке, спасибо! Как у тебя настроение?')]",)
+[INFO 2025-01-10 21:22:35,710 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:22:36,447 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:22:36,447 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 21:22:36,540 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:22:36,540 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:22:36,540 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:22:36,541 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:22:36,542 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:22:36,542 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:22:36,542 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:22:36,542 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:22:36,542 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 21:22:36,542 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:22:36,543 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:22:36,543 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 21:22:36,543 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 21:22:36,543 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:22:40,326 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:22:40,326 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 21:22:40,326 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 21:22:40,326 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:22:40,326 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:22:40,326 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:22:40,327 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:22:40,327 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:22:40,327 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:22:40,327 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:22:40,328 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 21:22:40,328 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:22:40,328 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:22:40,328 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 21:22:40,328 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 21:22:40,328 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:22:41,091 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:22:41,091 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 21:22:41,091 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 21:22:41,091 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:22:50,482 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:22:50,483 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 21:22:50,483 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 21:22:50,483 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:22:57,034 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:22:57,034 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 21:22:57,131 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:22:57,131 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:22:59,209 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:22:59,209 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:22:59,209 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:22:59,209 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:22:59,209 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:22:59,209 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:22:59,210 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 21:22:59,210 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:22:59,210 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:22:59,210 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 21:22:59,210 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 21:22:59,210 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:26:28,008 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:26:28,008 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 21:26:28,008 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:26:28,009 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:26:43,971 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:26:43,971 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 21:26:43,972 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:26:43,972 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:35:24,427 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:35:24,427 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 21:35:24,427 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 21:35:24,428 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:35:24,428 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:35:24,428 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:35:24,428 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:35:24,428 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:35:24,428 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:35:24,428 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:35:24,429 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 21:35:24,429 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:35:24,429 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:35:24,429 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 21:35:24,429 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 21:35:24,429 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:36:01,688 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:36:01,688 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 21:36:01,689 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 21:36:01,689 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:36:01,689 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:36:01,689 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:36:01,689 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:36:01,689 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:36:01,689 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:36:01,689 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:36:01,690 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 21:36:01,690 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:36:01,690 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:36:01,690 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 21:36:01,690 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 21:36:01,691 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:36:07,503 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:36:07,503 users.py:106 -     set_user_setting()] changing setting <is_expert>
+[INFO 2025-01-10 21:36:07,624 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:36:07,624 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:36:09,630 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:36:09,630 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 21:36:09,631 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (None,)
+[INFO 2025-01-10 21:36:12,818 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:36:12,818 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:36:12,819 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:36:12,819 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:36:12,819 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:36:12,819 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:36:12,820 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 21:36:12,820 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:36:12,820 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:36:12,820 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 21:36:12,820 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (None,)
+[INFO 2025-01-10 21:36:16,808 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:36:16,808 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 21:36:16,808 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:36:16,808 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:36:31,446 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:36:31,446 users.py:106 -     set_user_setting()] changing setting <is_expert>
+[INFO 2025-01-10 21:36:31,556 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:36:31,556 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:38:01,832 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:38:01,832 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 21:38:01,834 users.py:202 -     get_user_setting()] Getting user setting history response is (None,)
+[INFO 2025-01-10 21:38:02,706 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:38:02,706 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 21:38:02,819 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:38:02,819 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:38:02,819 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:38:02,820 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:38:02,821 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:38:02,821 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:38:02,821 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:38:02,821 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:38:02,821 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 21:38:02,821 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:38:02,821 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:38:02,821 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 21:38:02,822 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 21:38:02,822 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:38:08,826 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:38:08,826 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 21:38:08,826 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 21:38:08,827 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:38:08,827 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:38:08,827 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:38:08,827 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:38:08,827 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:38:08,827 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:38:08,827 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:38:08,828 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 21:38:08,828 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:38:08,828 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:38:08,828 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 21:38:08,828 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 21:38:08,828 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:38:11,744 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:38:11,744 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 21:38:11,744 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 21:38:11,744 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:38:17,490 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:38:17,490 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 21:38:17,490 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 21:38:17,490 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:38:28,536 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:38:28,536 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 21:38:28,538 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 21:38:28,538 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:38:28,538 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:38:28,539 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:38:28,539 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:38:28,539 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:38:28,539 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:38:28,539 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:38:28,539 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 21:38:28,540 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:38:28,540 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:38:28,540 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 21:38:28,540 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 21:38:28,540 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:38:34,664 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:38:34,664 users.py:106 -     set_user_setting()] changing setting <is_expert>
+[INFO 2025-01-10 21:38:34,776 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:38:34,776 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:38:37,717 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:38:37,717 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 21:38:37,717 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('user', '.луны'), ('system', 'Какую из лун ты имеешь в виду? У Земли одна луна, у Ганимеда — две, а у Ио только один известный спутник.')]",)
+[INFO 2025-01-10 21:38:37,717 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:38:38,508 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:38:38,508 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 21:38:38,601 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:38:38,601 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:38:38,601 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:38:38,601 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:38:38,602 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:38:38,602 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:38:38,603 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:38:38,603 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:38:38,603 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 21:38:38,603 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:38:38,603 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:38:38,603 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 21:38:38,604 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 21:38:38,604 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:38:41,257 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:38:41,257 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 21:38:41,257 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (None,)
+[INFO 2025-01-10 21:40:43,359 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:40:43,359 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 21:40:43,360 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('user', '.луны'), ('system', 'Какую из лун ты имеешь в виду? У Земли одна луна, у Ганимеда — две, а у Ио только один известный спутник.'), ('user', 'Привет'), ('system', 'Здравствуйте! Чем могу помочь?')]",)
+[INFO 2025-01-10 21:40:43,360 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:40:44,124 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 21:40:44,124 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 21:40:44,224 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 21:40:44,225 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:40:44,225 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:40:44,225 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 21:40:44,226 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 21:40:44,226 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:40:44,226 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:40:44,226 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 21:40:44,227 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 21:40:44,227 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 21:40:44,227 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 21:40:44,227 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 21:40:44,227 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 21:40:44,227 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 21:40:45,546 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 21:40:45,546 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 21:40:45,546 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (None,)
+[INFO 2025-01-10 22:00:32,108 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:00:32,109 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 22:00:32,109 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('user', '.луны'), ('system', 'Какую из лун ты имеешь в виду? У Земли одна луна, у Ганимеда — две, а у Ио только один известный спутник.'), ('user', 'Привет'), ('system', 'Здравствуйте! Чем могу помочь?'), ('user', 'Привет'), ('system', 'Привет! Как я могу помочь вам сегодня?')]",)
+[INFO 2025-01-10 22:00:32,109 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:00:32,860 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 22:00:32,860 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 22:00:32,956 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 22:00:32,956 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:00:32,957 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:00:32,957 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:00:32,958 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:00:32,958 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:00:32,958 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:00:32,958 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:00:32,958 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:00:32,959 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:00:32,959 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:00:32,959 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:00:32,959 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:00:32,959 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:00:38,174 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:00:38,174 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 22:00:38,175 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('user', '.луны'), ('system', 'Какую из лун ты имеешь в виду? У Земли одна луна, у Ганимеда — две, а у Ио только один известный спутник.'), ('user', 'Привет'), ('system', 'Здравствуйте! Чем могу помочь?'), ('user', 'Привет'), ('system', 'Привет! Как я могу помочь вам сегодня?'), ('user', 'Привет'), ('system', 'Привет-привет! Что вас интересует?')]",)
+[INFO 2025-01-10 22:00:38,175 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:00:38,920 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 22:00:38,920 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 22:00:39,015 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 22:00:39,015 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:00:39,015 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:00:39,015 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:00:39,016 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:00:39,017 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:00:39,017 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:00:39,017 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:00:39,017 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:00:39,017 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:00:39,017 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:00:39,017 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:00:39,018 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:00:39,018 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:00:55,802 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:00:55,802 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 22:00:55,802 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('user', '.луны'), ('system', 'Какую из лун ты имеешь в виду? У Земли одна луна, у Ганимеда — две, а у Ио только один известный спутник.'), ('user', 'Привет'), ('system', 'Здравствуйте! Чем могу помочь?'), ('user', 'Привет'), ('system', 'Привет! Как я могу помочь вам сегодня?'), ('user', 'Привет'), ('system', 'Привет-привет! Что вас интересует?'), ('user', 'Как дела?'), ('system', 'Всё отлично, спасибо! Как ваше настроение?')]",)
+[INFO 2025-01-10 22:00:55,802 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:00:56,603 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 22:00:56,603 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 22:00:56,711 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 22:00:56,711 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:00:56,711 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:00:56,711 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:00:56,712 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:00:56,713 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:00:56,713 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:00:56,713 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:00:56,713 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:00:56,713 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:00:56,713 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:00:56,713 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:00:56,714 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:00:56,714 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:00:58,317 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:00:58,317 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 22:00:58,317 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (None,)
+[INFO 2025-01-10 22:01:05,708 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 22:01:05,708 users.py:106 -     set_user_setting()] changing setting <is_expert>
+[INFO 2025-01-10 22:01:05,811 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 22:01:05,811 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:01:21,022 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:01:21,022 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 22:01:21,022 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 22:01:21,022 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:01:21,022 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:01:21,022 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:01:21,023 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:01:21,023 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:01:21,023 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:01:21,023 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:01:21,023 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:01:21,023 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:01:21,024 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:01:21,024 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:01:21,024 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:01:21,024 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:01:28,030 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 22:01:28,030 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 22:01:28,120 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 22:01:28,121 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:02:34,561 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:02:34,562 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 22:02:34,562 users.py:202 -     get_user_setting()] Getting user setting history response is (None,)
+[INFO 2025-01-10 22:02:35,313 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 22:02:35,313 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 22:02:35,447 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 22:02:35,447 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:02:35,447 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:02:35,447 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:02:35,448 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:02:35,448 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:02:35,448 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:02:35,448 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:02:35,449 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:02:35,449 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:02:35,449 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:02:35,449 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:02:35,449 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:02:35,449 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:02:36,866 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:02:36,866 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 22:02:36,866 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 22:02:36,866 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:02:36,866 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:02:36,866 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:02:36,867 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:02:36,867 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:02:36,867 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:02:36,867 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:02:36,868 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:02:36,868 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:02:36,868 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:02:36,868 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:02:36,868 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:02:36,868 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:02:38,148 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:02:38,148 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 22:02:38,149 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 22:02:38,149 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:02:43,239 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:02:43,239 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 22:02:43,239 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 22:02:43,239 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:03:12,696 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:03:12,696 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 22:03:12,696 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 22:03:12,696 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:03:12,697 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:03:12,697 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:03:12,697 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:03:12,697 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:03:12,697 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:03:12,697 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:03:12,698 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:03:12,698 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:03:12,698 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:03:12,698 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:03:12,698 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:03:12,698 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:03:16,935 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 22:03:16,935 users.py:106 -     set_user_setting()] changing setting <is_expert>
+[INFO 2025-01-10 22:03:17,078 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 22:03:17,078 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:03:35,189 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:03:35,189 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 22:03:35,189 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('user', 'Как дела?'), ('system', 'Всё в порядке, спасибо! Как у тебя настроение?')]",)
+[INFO 2025-01-10 22:03:35,189 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:03:35,925 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 22:03:35,925 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 22:03:36,027 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 22:03:36,027 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:03:36,027 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:03:36,027 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:03:36,028 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:03:36,028 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:03:36,028 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:03:36,028 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:03:36,029 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:03:36,029 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:03:36,029 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:03:36,029 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:03:36,029 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:03:36,029 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:03:37,153 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:03:37,153 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 22:03:37,153 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (None,)
+[INFO 2025-01-10 22:04:02,842 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:02,842 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 22:04:02,959 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 22:04:02,959 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:04:04,748 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:04,748 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 22:04:04,748 users.py:202 -     get_user_setting()] Getting user setting history response is (None,)
+[INFO 2025-01-10 22:04:05,532 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:05,532 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 22:04:05,627 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 22:04:05,627 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:04:05,627 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:05,627 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:04:05,628 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:04:05,629 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:04:05,629 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:05,629 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:04:05,629 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:04:05,629 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:04:05,629 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:04:05,629 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:04:05,629 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:04:05,629 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:04:06,582 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:06,582 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 22:04:06,583 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (None,)
+[INFO 2025-01-10 22:04:09,115 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:09,115 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 22:04:09,115 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('user', 'мяу'), ('system', 'Здравствуйте! Как я могу помочь вам сегодня?')]",)
+[INFO 2025-01-10 22:04:09,115 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:04:09,833 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:09,833 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 22:04:09,946 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 22:04:09,946 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:04:09,946 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:09,946 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:04:09,952 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:04:09,952 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:04:09,952 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:09,953 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:04:09,959 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:04:09,959 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:04:09,959 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:04:09,959 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:04:09,959 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:04:09,959 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:04:11,026 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:11,026 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 22:04:11,027 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (None,)
+[INFO 2025-01-10 22:04:21,961 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:21,961 users.py:106 -     set_user_setting()] changing setting <is_expert>
+[INFO 2025-01-10 22:04:22,051 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 22:04:22,051 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:04:28,656 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:28,656 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 22:04:28,656 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 22:04:28,657 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:04:28,657 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:28,657 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:04:28,657 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:04:28,657 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:04:28,657 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:28,657 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:04:28,658 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:04:28,658 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:04:28,658 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:04:28,658 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:04:28,659 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:04:28,659 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:04:32,567 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:32,567 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 22:04:32,568 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('user', 'мяу'), ('system', 'Здравствуйте! Как я могу помочь вам сегодня?'), ('user', 'привет'), ('system', 'Привет! Чем могу быть полезен?')]",)
+[INFO 2025-01-10 22:04:32,568 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:04:33,300 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:33,300 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 22:04:33,415 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 22:04:33,415 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:04:33,415 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:33,416 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:04:33,417 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:04:33,417 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:04:33,417 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:33,417 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:04:33,417 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:04:33,417 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:04:33,417 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:04:33,417 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:04:33,418 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:04:33,418 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:04:34,384 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:34,384 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 22:04:34,385 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 22:04:34,385 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:04:34,385 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:34,385 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:04:34,385 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:04:34,385 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:04:34,386 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:04:34,386 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:04:34,386 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:04:34,386 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:04:34,386 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:04:34,386 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:04:34,387 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:04:34,387 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:04:35,496 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:04:35,496 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 22:04:35,497 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 22:04:35,497 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:04:43,509 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:04:43,509 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 22:04:43,511 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 22:04:43,511 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:07:32,609 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:07:32,609 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 22:07:32,611 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 22:07:32,611 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:07:32,611 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:07:32,611 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:07:32,611 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:07:32,612 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:07:32,612 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:07:32,612 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:07:32,612 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:07:32,612 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:07:32,612 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:07:32,612 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:07:32,613 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:07:32,613 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:07:34,641 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:07:34,641 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:07:34,641 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:07:34,641 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:31:33,951 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:31:33,952 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 22:31:33,952 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 22:31:33,952 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:31:33,952 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:31:33,952 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:31:33,953 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:31:33,953 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:31:33,953 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:31:33,953 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:31:33,953 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:31:33,953 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:31:33,953 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:31:33,953 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:31:33,954 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:31:33,954 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:31:36,084 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:31:36,084 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 22:31:36,085 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 22:31:36,085 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:33:13,009 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:33:13,009 users.py:171 -     get_user_setting()] getting setting <history>
+[INFO 2025-01-10 22:33:13,009 users.py:202 -     get_user_setting()] Getting user setting history response is ("[('user', 'мяу'), ('system', 'Здравствуйте! Как я могу помочь вам сегодня?'), ('user', 'привет'), ('system', 'Привет! Чем могу быть полезен?'), ('user', 'Привет, как дела?'), ('system', 'Привет! У меня всё отлично, спасибо. Как у тебя дела?')]",)
+[INFO 2025-01-10 22:33:13,010 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:33:13,762 users.py:105 -     set_user_setting()] _____SET_USER_SETTING START_____
+[INFO 2025-01-10 22:33:13,762 users.py:106 -     set_user_setting()] changing setting <history>
+[INFO 2025-01-10 22:33:13,855 users.py:164 -     set_user_setting()] changed successfully
+[INFO 2025-01-10 22:33:13,855 users.py:165 -     set_user_setting()] _____SET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:33:13,855 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:33:13,855 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:33:13,856 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:33:13,856 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:33:13,856 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:33:13,857 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:33:13,857 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:33:13,857 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:33:13,857 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:33:13,857 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:33:13,857 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:33:13,857 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:33:15,036 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:33:15,036 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 22:33:15,036 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 22:33:15,036 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:33:15,036 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:33:15,036 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:33:15,036 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:33:15,036 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:33:15,036 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:33:15,036 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:33:15,038 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:33:15,038 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:33:15,038 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:33:15,038 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:33:15,038 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:33:15,038 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:33:26,880 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:33:26,880 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 22:33:26,880 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 22:33:26,880 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:33:41,791 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:33:41,791 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 22:33:41,791 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 22:33:41,791 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:33:41,791 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:33:41,791 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:33:41,791 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:33:41,792 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:33:41,792 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:33:41,792 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:33:41,792 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:33:41,792 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:33:41,792 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:33:41,792 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:33:41,793 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:33:41,793 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:34:45,294 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:34:45,294 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 22:34:45,294 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 22:34:45,294 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:34:45,294 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:34:45,294 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:34:45,295 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:34:45,295 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:34:45,295 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:34:45,295 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:34:45,295 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:34:45,295 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:34:45,295 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:34:45,296 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:34:45,296 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:34:45,296 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:34:46,868 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:34:46,868 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 22:34:46,869 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 22:34:46,869 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:35:29,423 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:35:29,423 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 22:35:29,423 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 22:35:29,423 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:35:29,423 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:35:29,423 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:35:29,424 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:35:29,424 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:35:29,424 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:35:29,424 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:35:29,424 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:35:29,424 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:35:29,424 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:35:29,425 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:35:29,425 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:35:29,425 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:35:30,944 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:35:30,944 users.py:254 - get_user_table_setting()] getting setting <chat_id>
+[INFO 2025-01-10 22:35:30,945 users.py:276 - get_user_table_setting()] table setting got successfully, response is (485783161,)
+[INFO 2025-01-10 22:35:30,945 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:35:52,265 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:35:52,265 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 22:35:52,265 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 22:35:52,265 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:35:52,266 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:35:52,266 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:35:52,266 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:35:52,266 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:35:52,266 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:35:52,266 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:35:52,267 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:35:52,267 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:35:52,267 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:35:52,267 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:35:52,267 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:35:52,267 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 22:42:10,158 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:42:10,158 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 22:42:10,159 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 22:42:10,159 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:42:10,159 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:42:10,159 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 22:42:10,159 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 22:42:10,159 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:42:10,159 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 22:42:10,159 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 22:42:10,160 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 22:42:10,160 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 22:42:10,160 users.py:253 - get_user_table_setting()] _____GET_USER_TABLE_SETTING START_____
+[INFO 2025-01-10 22:42:10,160 users.py:254 - get_user_table_setting()] getting setting <username>
+[INFO 2025-01-10 22:42:10,160 users.py:276 - get_user_table_setting()] table setting got successfully, response is ('iamacoffee',)
+[INFO 2025-01-10 22:42:10,160 users.py:279 - get_user_table_setting()] _____GET_USER_TABLE_SETTING END_____
+
+[INFO 2025-01-10 23:39:08,290 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 23:39:08,290 users.py:171 -     get_user_setting()] getting setting <name>
+[INFO 2025-01-10 23:39:08,291 users.py:202 -     get_user_setting()] Getting user setting name response is ('Михаил',)
+[INFO 2025-01-10 23:39:08,291 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 23:39:08,291 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 23:39:08,291 users.py:171 -     get_user_setting()] getting setting <surname>
+[INFO 2025-01-10 23:39:08,292 users.py:202 -     get_user_setting()] Getting user setting surname response is ('Меов',)
+[INFO 2025-01-10 23:39:08,292 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+
+[INFO 2025-01-10 23:39:08,292 users.py:170 -     get_user_setting()] _____GET_USER_SETTING START_____
+[INFO 2025-01-10 23:39:08,292 users.py:171 -     get_user_setting()] getting setting <is_expert>
+[INFO 2025-01-10 23:39:08,292 users.py:202 -     get_user_setting()] Getting user setting is_expert response is (1,)
+[INFO 2025-01-10 23:39:08,292 users.py:212 -     get_user_setting()] _____GET_USER_SETTING END_____
+

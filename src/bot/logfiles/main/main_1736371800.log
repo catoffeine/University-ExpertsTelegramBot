@@ -1,0 +1,7 @@
+[INFO 2025-01-09 20:16:59,515 sql.py:50 -              db_init()] _____DB_INIT START_____
+[INFO 2025-01-09 20:16:59,515 sql.py:51 -              db_init()] Initializing SQLite Databases
+[INFO 2025-01-09 20:16:59,515 sql.py:55 -              db_init()] table is none, so initializing all possible databases (if not exists already)
+[INFO 2025-01-09 20:16:59,515 sql.py:105 -              db_init()] trying to make queries...
+[INFO 2025-01-09 20:16:59,515 sql.py:120 -              db_init()] Queries are done successfully
+[INFO 2025-01-09 20:16:59,515 sql.py:121 -              db_init()] _____DB_INIT END_____
+

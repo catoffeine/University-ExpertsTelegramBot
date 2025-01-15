@@ -1,0 +1,36 @@
+[INFO 2025-01-10 22:30:03,249 sql.py:50 -              db_init()] _____DB_INIT START_____
+[INFO 2025-01-10 22:30:03,249 sql.py:51 -              db_init()] Initializing SQLite Databases
+[INFO 2025-01-10 22:30:03,249 sql.py:55 -              db_init()] table is none, so initializing all possible databases (if not exists already)
+[INFO 2025-01-10 22:30:03,249 sql.py:105 -              db_init()] trying to make queries...
+[INFO 2025-01-10 22:30:03,249 sql.py:120 -              db_init()] Queries are done successfully
+[INFO 2025-01-10 22:30:03,249 sql.py:121 -              db_init()] _____DB_INIT END_____
+
+[INFO 2025-01-10 22:31:03,508 users.py:334 -             add_user()] _____ADD_USER START_____
+[INFO 2025-01-10 22:31:03,508 users.py:335 -             add_user()] Adding user <Bratishkahopper> to database...
+[INFO 2025-01-10 22:31:03,629 users.py:360 -             add_user()] _____ADD_USER END_____
+
+[INFO 2025-01-10 22:31:33,951 users.py:43 -        get_all_users()] _____GET_ALL_USERS START_____
+[INFO 2025-01-10 22:31:33,951 users.py:72 -        get_all_users()] _____GET_ALL_USERS END_____
+
+[INFO 2025-01-10 22:32:07,773 keys.py:12 -              add_key()] Adding key to database...
+[INFO 2025-01-10 22:32:36,984 keys.py:184 -           remove_key()] removing the key...
+[INFO 2025-01-10 22:32:36,984 keys.py:186 -           remove_key()] its type is str
+[INFO 2025-01-10 22:32:36,985 keys.py:204 -           remove_key()] query is done successfully
+[INFO 2025-01-10 22:33:15,035 users.py:43 -        get_all_users()] _____GET_ALL_USERS START_____
+[INFO 2025-01-10 22:33:15,036 users.py:72 -        get_all_users()] _____GET_ALL_USERS END_____
+
+[INFO 2025-01-10 22:33:41,790 users.py:43 -        get_all_users()] _____GET_ALL_USERS START_____
+[INFO 2025-01-10 22:33:41,790 users.py:72 -        get_all_users()] _____GET_ALL_USERS END_____
+
+[INFO 2025-01-10 22:34:45,293 users.py:43 -        get_all_users()] _____GET_ALL_USERS START_____
+[INFO 2025-01-10 22:34:45,294 users.py:72 -        get_all_users()] _____GET_ALL_USERS END_____
+
+[INFO 2025-01-10 22:35:29,422 users.py:43 -        get_all_users()] _____GET_ALL_USERS START_____
+[INFO 2025-01-10 22:35:29,423 users.py:72 -        get_all_users()] _____GET_ALL_USERS END_____
+
+[INFO 2025-01-10 22:35:52,265 users.py:43 -        get_all_users()] _____GET_ALL_USERS START_____
+[INFO 2025-01-10 22:35:52,265 users.py:72 -        get_all_users()] _____GET_ALL_USERS END_____
+
+[INFO 2025-01-10 22:42:10,158 users.py:43 -        get_all_users()] _____GET_ALL_USERS START_____
+[INFO 2025-01-10 22:42:10,158 users.py:72 -        get_all_users()] _____GET_ALL_USERS END_____
+
