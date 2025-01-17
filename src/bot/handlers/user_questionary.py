@@ -3,7 +3,8 @@ from aiogram.enums import ParseMode
 from aiogram.filters import Command
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import StatesGroup, State
-from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
+from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery, KeyboardButton, \
+    ReplyKeyboardMarkup
 
 from bot.handlers.permission_handlers import permission_check
 from bot.sql.users import add_user, set_user_setting, get_user_setting, set_user_table_setting, get_user_table_setting, \
@@ -18,8 +19,15 @@ class UserDataStates(StatesGroup):
 
 @router.message(Command("start"))
 async def cmd_start(message: Message, state: FSMContext, bot: Bot):
+    profile_button = KeyboardButton(text="Профиль")
+    profile_keyboard = ReplyKeyboardMarkup(
+        keyboard=[[profile_button]],
+        resize_keyboard=True,
+        one_time_keyboard=False
+    )
+
     if not await permission_check(message.from_user.id, message.chat.id, bot, is_start=True):
-        await message.answer("Привет! Ты первый раз в боте, поэтому введи твое имя: ")
+        await message.answer("Привет! Ты первый раз в боте, поэтому введи твое имя: ", reply_markup=profile_keyboard)
         await state.update_data(
             user_id=message.from_user.id,
             chat_id=message.chat.id,
@@ -32,7 +40,7 @@ async def cmd_start(message: Message, state: FSMContext, bot: Bot):
             await set_user_table_setting(message.from_user.id, "username", message.from_user.username)
 
         await message.answer("Привет! Этот бот поможет тебе ответить на любой вопрос, если же ответ бота тебя не "
-                             "устроит, то ты можешь задать вопрос эксперту из списка")
+                             "устроит, то ты можешь задать вопрос эксперту из списка", reply_markup=profile_keyboard)
 
 
 @router.message(Command("profile"))
@@ -54,6 +62,11 @@ async def cmd_profile(message: Message, bot: Bot):
     ])
 
     await message.answer(text, parse_mode=ParseMode.MARKDOWN, reply_markup=inline_keyboard)
+
+
+@router.message(F.text == "Профиль")
+async def profile_handler(message: Message, bot: Bot):
+    await cmd_profile(message, bot)
 
 
 @router.message(Command("change_data"))

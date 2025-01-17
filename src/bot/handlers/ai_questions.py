@@ -7,8 +7,10 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import StatesGroup, State
 from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 from aiogram.utils.keyboard import InlineKeyboardBuilder
-from gigachat import GigaChat
-from gigachat.models import Chat, Messages, MessagesRole
+# from gigachat import GigaChat
+# from gigachat.models import Chat, Messages, MessagesRole
+from langchain_core.messages import HumanMessage, SystemMessage
+from langchain_gigachat.chat_models import GigaChat
 
 from bot.definitions import GIGACHAT_KEY
 from bot.handlers.permission_handlers import permission_check
@@ -34,54 +36,53 @@ def cut_history(history, max_symbols=1000):
     return history
 
 
-@router.message(StateFilter(None), F.text & ~F.text.startswith("/"))
+@router.message(StateFilter(None), F.text & ~F.text.startswith("/") & (F.text != "Профиль"))
 async def ask_bot(message: Message, state: FSMContext, bot: Bot):
     if not await permission_check(message.from_user.id, message.chat.id, bot):
         return
 
-    payload = Chat(
-        messages=[
-            Messages(
-                role=MessagesRole.SYSTEM,
-                content="Ты бот, который вежливо отвечает на любой вопрос студента."
-            )
-        ],
-        temperature=0.7,
-        max_tokens=1000,
+    llm = GigaChat(
+        credentials=GIGACHAT_KEY,
+        scope="GIGACHAT_API_PERS",
+        model="GigaChat",
+        verify_ssl_certs=False,
+        streaming=False,
     )
+
+    messages = [
+        SystemMessage(
+            content="Ты бот, который вежливо отвечает на любой вопрос студента."
+        )
+    ]
 
     history = literal_eval(str(await get_user_setting(message.from_user.id, "history")))
 
 
     for item in history:
         if item[0] == "user":
-            payload.messages.append(Messages(role=MessagesRole.USER, content=item[1]))
-            # print("user:", item[1])
+            messages.append(HumanMessage(content=item[1]))
         else:
-            # print("system:", item[1])
-            payload.messages.append(Messages(role=MessagesRole.ASSISTANT, content=item[1]))
+            messages.append(HumanMessage(content=item[1]))
 
-    # print("__________________")
-    with GigaChat(credentials=GIGACHAT_KEY, verify_ssl_certs=False) as giga:
-        payload.messages.append(Messages(role=MessagesRole.USER, content=message.text))
-        history.append(("user", message.text))
-        try:
-            response = giga.chat(payload)
-        except BaseException as exc:
-            await message.answer("Неизвестная ошибка, пожалуйста свяжитесь с разработчиком - @iamacoffee")
-            print(repr(exc))
-            return
+    messages.append(HumanMessage(content=message.text))
+    history.append(("user", message.text))
+    try:
+        response = llm.invoke(messages)
+    except BaseException as exc:
+        await message.answer("Неизвестная ошибка, пожалуйста свяжитесь с разработчиком - @iamacoffee")
+        print(repr(exc))
+        return
 
-        res = response.choices[0].message.content
-        history.append(("system", res))
+    res = response.content
+    history.append(("system", res))
 
-        keyboard = InlineKeyboardMarkup(
-            inline_keyboard=[
-                [
-                    InlineKeyboardButton(text="Задать вопрос эксперту", callback_data="choose_expert")
-                ]
+    keyboard = InlineKeyboardMarkup(
+        inline_keyboard=[
+            [
+                InlineKeyboardButton(text="Задать вопрос эксперту", callback_data="choose_expert")
             ]
-        )
+        ]
+    )
 
     history = cut_history(history)
     await set_user_setting(message.from_user.id, "history", history)
