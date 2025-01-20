@@ -33,7 +33,8 @@ async def launch_bot():
     commands = [
         BotCommand(command="start", description="регистрация и приветствие"),
         BotCommand(command="profile", description="ваш текущий профиль"),
-        BotCommand(command="clear", description="отчистить историю сообщений")
+        BotCommand(command="clear", description="отчистить историю сообщений"),
+        BotCommand(command="auth", description="в качестве аргумента ваш ключ, для авторизации в качестве эксперта")
     ]
     await bot.set_my_commands(commands)
 

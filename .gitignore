@@ -5,3 +5,4 @@ database.db
 __pycache__
 *.sqlite
 logfiles
+*.docx
